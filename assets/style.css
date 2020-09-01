@@ -17,7 +17,7 @@ main {
     padding-bottom: 165px;
 }
 
-#about-me-box {
+#about-me-box, #contact-me-box {
     padding: 25px;
     background-color: white;
 }
@@ -25,6 +25,7 @@ main {
 h1 {
     color: #63a8a5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
 #mypicture {
