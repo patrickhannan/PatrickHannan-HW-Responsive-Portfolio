@@ -18,3 +18,16 @@ body {
     padding: 25px;
     background-color: white;
 }
+
+h1 {
+    color: #63a8a5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#mypicture {
+    float:left;
+    max-width: 250px;
+    max-height: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
