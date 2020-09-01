@@ -13,6 +13,9 @@ nav {
 body {
     background-image: url(./ignasi_pattern_s.png);
 }
+main {
+    padding-bottom: 165px;
+}
 
 #about-me-box {
     padding: 25px;
@@ -30,4 +33,16 @@ h1 {
     max-height: 250px;
     margin-right: 20px;
     margin-bottom: 20px;
+}
+
+.footer-mycss {
+    background-color: #666666;
+    border-top: 6px solid #63a8a5;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    margin-top: -60px; 
+    line-height: 55px;
+    font-size: 18;
 }
