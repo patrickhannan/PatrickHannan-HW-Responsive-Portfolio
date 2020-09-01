@@ -1,11 +1,20 @@
+nav {
+    margin-bottom: 80px;
+}
+
 .navbar-brand {
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        color: white !important;
-        letter-spacing: 1px;
-        background-color: #63a8a5 !important;
-        font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white !important;
+    background-color: #63a8a5 !important;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 body {
     background-image: url(./ignasi_pattern_s.png);
+}
+
+#about-me-box {
+    padding: 25px;
+    background-color: white;
 }
