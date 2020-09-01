@@ -36,6 +36,11 @@ h1 {
     margin-bottom: 20px;
 }
 
+.submit-button {
+    background-color: #63a8a5;
+    color: white;
+}
+
 .footer-mycss {
     background-color: #666666;
     border-top: 6px solid #63a8a5;
