@@ -1,0 +1,11 @@
+.navbar-brand {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white !important;
+        letter-spacing: 1px;
+        background-color: #63a8a5 !important;
+        font-size: 24px;
+}
+
+body {
+    background-image: url(./ignasi_pattern_s.png);
+}
