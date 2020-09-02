@@ -41,6 +41,13 @@ h1 {
     color: white;
 }
 
+.phimg {
+    max-width: 350px;
+    max-height: 350px;
+    vertical-align: middle;
+    width: 100%;
+}
+
 .footer-mycss {
     background-color: #666666;
     border-top: 6px solid #63a8a5;
