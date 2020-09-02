@@ -17,7 +17,7 @@ main {
     padding-bottom: 165px;
 }
 
-#about-me-box, #contact-me-box {
+#about-me-box, #contact-me-box, #portfolio-box {
     padding: 25px;
     background-color: white;
 }
