@@ -2,10 +2,13 @@ nav {
     margin-bottom: 65px;
 }
 
+.navbar {
+    background-color: black !important;
+}
 .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white !important;
-    background-color: #63a8a5 !important;
+    color: #F4F4F4 !important;
+    background-color: #cf7500 !important;
     font-size: 20px;
     font-weight: 700;
 }
@@ -23,7 +26,7 @@ main {
 }
 
 h1 {
-    color: #63a8a5;
+    color: #cf7500;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 700;
 }
@@ -37,7 +40,7 @@ h1 {
 }
 
 .submit-button {
-    background-color: #63a8a5;
+    background-color: #cf7500;
     color: white;
 }
 
@@ -49,8 +52,8 @@ h1 {
 }
 
 .footer-mycss {
-    background-color: #666666;
-    border-top: 6px solid #63a8a5;
+    background-color: black;
+    border-top: 6px solid #cf7500;
     position: relative;
     text-align: center;
     width: 100%;
@@ -58,4 +61,5 @@ h1 {
     margin-top: -60px; 
     line-height: 55px;
     font-size: 18;
+    color: #F4F4F4;
 }
